@@ -1,4 +1,4 @@
-#Season Dectector
+# Season Dectector
 
 A simple React app that shows user's season according to his/her geolocation and date.
 
